@@ -1,3 +1,16 @@
----
-title : test site
----
+name: "Wenlu's Website"
+output_dir: "."
+navbar:
+  title : "test site"
+  left:
+   - text: "Home"
+     href: index.html
+   - text: "Project"
+     href: project.html
+   - text: "Anout"
+     href: about.html
+
+output:
+  html_document:
+    theme: simplex
+    highlight: textmate
