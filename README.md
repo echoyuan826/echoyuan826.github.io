@@ -1,5 +1,9 @@
-# echoyuan826.github.io
+# Wenlu Yuan's Website
 
-This is my personal website.
+This is Wenlu Yuan's personal website.
 
-Here I am.
+In this website, we will play with the data from twitter and develop a algorithm identify the users based on the tweets. 
+
+Let's Go!
+
+
